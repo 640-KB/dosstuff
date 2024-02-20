@@ -104,10 +104,10 @@ FlasherSegment  Segment
 DsZero          Label   Byte
 FlasherSegment  Ends
 
-MonoSeg         Segment
+MonoSeg         Segment Public
 MonoSeg         Ends
 
-ColorSeg        Segment
+ColorSeg        Segment Public
 ColorSeg        Ends
 
 
